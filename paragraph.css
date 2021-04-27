@@ -1,0 +1,65 @@
+
+.paragraph1{
+    background-color: aqua;
+    margin-left : 20px;
+    border-style: dashed;
+    margin-right: 10px;
+    margin-top: 30px;
+    position: relative;
+    top: 20px;
+}
+.paragraph2{
+    background-color: sandybrown;
+    margin-bottom : 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-style: dotted;
+    margin-top: 30px;
+}
+.paragraph3{
+    background-color: palegreen;
+    margin-top : 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-style: inset;
+}
+.paragraph4{
+    background-color: rosybrown;
+    margin-bottom : 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-style :ridge;
+    margin-top: 20px;
+}
+.paragraph5{
+    background-color: skyblue;
+    margin-bottom : 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-style :solid;
+    margin-top: 20px;
+}
+.paragraph6{
+    background-color: tomato;
+    margin-bottom : 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-style: double;
+    margin-top: 20px;
+}
+.div{
+    background-color:teal;
+    width : 600px;
+    height: 700px;
+    margin-left: 300px;
+    box-shadow: 10px 10px black;
+}
+.text1{
+    margin-left: 30px;
+    color: white;
+    position : relative;
+    top : 10px;
+}
+
+
+
